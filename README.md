@@ -1,3 +1,71 @@
+# Awesome LeetCode Resources
+This repository contains LeetCode resources which are useful during interview preparation.
+
+## Fundamental Concepts
+- [LinkedIn List](https://leetcode.com/discuss/study-guide/1800120/become-master-in-linked-list)
+- [Queues](https://medium.com/basecs/to-queue-or-not-to-queue-2653bcde5b04)
+- [Stacks](https://medium.com/basecs/stacks-and-overflows-dbcf7854dc67)
+- [Hash Tables](https://medium.com/basecs/taking-hash-tables-off-the-shelf-139cbf4752f0)
+- [Heaps](https://medium.com/basecs/learning-to-love-heaps-cef2b273a238)
+- [Recursion](https://leetcode.com/discuss/study-guide/1733447/become-master-in-recursion)
+- [Trees](https://leetcode.com/discuss/study-guide/1820334/Become-Master-in-Tree)
+- [Tries](https://medium.com/basecs/trying-to-understand-tries-3ec6bede0014)
+- [Binary Search](https://leetcode.com/discuss/study-guide/786126/Python-Powerful-Ultimate-Binary-Search-Template.-Solved-many-problems)
+- [Dynamic Programming](https://medium.com/basecs/less-repetition-more-dynamic-programming-43d29830a630)
+- [Graph Theory](https://medium.com/basecs/a-gentle-introduction-to-graph-theory-77969829ead8)
+- [DFS Traversal](https://medium.com/basecs/deep-dive-through-a-graph-dfs-traversal-8177df5d0f13)
+- [BFS Traversal](https://medium.com/basecs/going-broad-in-a-graph-bfs-traversal-959bd1a09255)
+- [Dijkstra Algorithm](https://medium.com/basecs/finding-the-shortest-path-with-a-little-help-from-dijkstra-613149fbdc8e)
+
+## Patterns
+- [14 Coding Interview Patterns](https://hackernoon.com/14-patterns-to-ace-any-coding-interview-question-c5bb3357f6ed)
+- [Sliding Window patterns](https://leetcode.com/problems/frequency-of-the-most-frequent-element/solutions/1175088/C++-Maximum-Sliding-Window-Cheatsheet-Template/)
+- [Two Pointers Patterns](https://leetcode.com/discuss/study-guide/1688903/Solved-all-two-pointers-problems-in-100-days)
+- [Substring Problem Patterns](https://leetcode.com/problems/minimum-window-substring/solutions/26808/Here-is-a-10-line-template-that-can-solve-most-'substring'-problems/)
+- [Dynamic Programming Patterns](https://leetcode.com/discuss/study-guide/458695/Dynamic-Programming-Patterns)
+- [Binary Search Patterns](https://leetcode.com/discuss/study-guide/786126/Python-Powerful-Ultimate-Binary-Search-Template.-Solved-many-problems)
+- [Backtracking Patterns](https://leetcode.com/problems/permutations/solutions/18239/A-general-approach-to-backtracking-questions-in-Java-(Subsets-Permutations-Combination-Sum-Palindrome-Partioning)/)
+- [Tree Patterns](https://leetcode.com/discuss/study-guide/937307/Iterative-or-Recursive-or-DFS-and-BFS-Tree-Traversal-or-In-Pre-Post-and-LevelOrder-or-Views)
+  - [Tree Iterative Traversal](https://medium.com/leetcode-patterns/leetcode-pattern-0-iterative-traversals-on-trees-d373568eb0ec)
+  - [Tree Question Pattern](https://leetcode.com/discuss/study-guide/2879240/TREE-QUESTION-PATTERN-2023-oror-TREE-STUDY-GUIDE) 
+- [Graph Patterns](https://leetcode.com/discuss/study-guide/655708/Graph-For-Beginners-Problems-or-Pattern-or-Sample-Solutions)
+- [Monotonic Stack Patterns](https://leetcode.com/discuss/study-guide/2347639/A-comprehensive-guide-and-template-for-monotonic-stack-based-problems)
+- [Bit Manipulation Patterns](https://leetcode.com/discuss/study-guide/4282051/all-types-of-patterns-for-bits-manipulations-and-how-to-use-it)
+- [String Question Patterns](https://leetcode.com/discuss/study-guide/2001789/Collections-of-Important-String-questions-Pattern)
+- [DFS + BFS Patterns (1)](https://medium.com/leetcode-patterns/leetcode-pattern-1-bfs-dfs-25-of-the-problems-part-1-519450a84353)
+- [DFS + BFS Patterns (2)](https://medium.com/leetcode-patterns/leetcode-pattern-2-dfs-bfs-25-of-the-problems-part-2-a5b269597f52)
+- [Stock Series Patterns](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/solutions/108870/most-consistent-ways-of-dealing-with-the-series-of-stock-problems/)
+
+## LeetCode Extensions
+- [LeetCode Timer](https://chromewebstore.google.com/detail/leetcode-timer/gfkgelnlcnomnahkfmhemgpahgmibofd): Easily time your leetcode practise sessions with automatic time setting based on difficulty.
+- [LeetCode Video Solutions](https://chromewebstore.google.com/detail/leetcode-video-solutions/ilnmgkahgjdpkoliooildngldmilhelm): Watch free LeetCode video ▶ solutions on the problem page itself.
+- [LeetCode Format](https://chromewebstore.google.com/detail/leetcode-format/imogghebhifnnlgogigikjecilkicfpp): Adds Format code button on leetcode to format the code using Prettier code formatter.
+- [LeetHub v2](https://chromewebstore.google.com/detail/leethub-v2/mhanfgfagplhgemhjfeolkkdidbakocm?hl=en): Automatically integrate your Leetcode & GeeksforGeeks submissions to GitHub.
+- [LeetCode VS Code Extension](https://marketplace.visualstudio.com/items?itemName=LeetCode.vscode-leetcode): Solve LeetCode problems in VS Code.
+
+## Curated Problems
+- [Blind 75](https://neetcode.io/practice)
+- [Leetcode Top 100 Liked](https://leetcode.com/studyplan/top-100-liked/)
+- [Leetcode Top Interview 150](https://leetcode.com/studyplan/top-interview-150/)
+- [Leetcode 75](https://leetcode.com/studyplan/leetcode-75/)
+
+## Books
+- [Data Structures And Algorithms Made Easy](https://www.amazon.com/Data-Structures-Algorithms-Made-Easy-ebook/dp/B0CBW278NC/)
+- [Cracking the Coding Interview](https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850/)
+
+## Courses
+- [Coursera - Algorithms, Part I](https://www.coursera.org/learn/algorithms-part1)
+- [Coursera - Algorithms, Part 2](https://www.coursera.org/learn/algorithms-part2)
+
+## Must-Do Problems (Topic Wise)
+  - Work in progress. Will publish soon.
+
+
+Your contributions are most welcome!
+
+
+
+
 # Awesome Behavioral Interviews
 This repository contains tips and resources to prepare for behavioral interviews.
 
@@ -990,3 +1058,132 @@ This repository contains low level design (LLD) resources to improve object orie
 ## Courses
 - [Coursera - Object-Oriented Design](https://www.coursera.org/learn/object-oriented-design)
 - [Coursera - Design Patterns](https://www.coursera.org/learn/design-patterns)
+
+
+
+
+
+
+
+# Awesome System Design Resources
+This repository contains resources to learn System Design concepts and prepare for interviews all using free resources.
+
+## System Design Fundamentals
+
+- [Content Delivery Network (CDN)](https://www.cloudflare.com/learning/cdn/what-is-a-cdn/)
+- [Caching](https://medium.com/must-know-computer-science/system-design-caching-acbd1b02ca01)
+- [Distributed Caching](https://redis.com/glossary/distributed-caching/)
+- [Latency vs Throughput](https://aws.amazon.com/compare/the-difference-between-throughput-and-latency/)
+- [CAP Theorem](https://www.bmc.com/blogs/cap-theorem/)
+- [Load Balancing](https://aws.amazon.com/what-is/load-balancing/)
+- [ACID Transactions](https://redis.com/glossary/acid-transactions/)
+- [SQL vs NoSQL](https://www.integrate.io/blog/the-sql-vs-nosql-difference/)
+- [Consistent Hashing](https://arpitbhayani.me/blogs/consistent-hashing/)
+- [Database Index](https://www.progress.com/tutorials/odbc/using-indexes)
+- [Rate Limiting](https://www.imperva.com/learn/application-security/rate-limiting/)
+- [Microservices Architecture](https://medium.com/hashmapinc/the-what-why-and-how-of-a-microservices-architecture-4179579423a9)
+- [Microservices Guidelines](https://newsletter.systemdesign.one/p/netflix-microservices)
+- [Strong vs Eventual Consistency](https://hackernoon.com/eventual-vs-strong-consistency-in-distributed-databases-282fdad37cf7)
+- [Consistency Patterns](https://systemdesign.one/consistency-patterns/)
+- [REST vs RPC](https://aws.amazon.com/compare/the-difference-between-rpc-and-rest/)
+- [Batch Processing vs Stream Processing](https://atlan.com/batch-processing-vs-stream-processing/)
+- [HeartBeat](https://martinfowler.com/articles/patterns-of-distributed-systems/heartbeat.html)
+- [Circuit Breaker](https://medium.com/geekculture/design-patterns-for-microservices-circuit-breaker-pattern-276249ffab33)
+- [Idempotency](https://blog.dreamfactory.com/what-is-idempotency/)
+- [Database Scaling](https://thenewstack.io/techniques-for-scaling-applications-with-a-database/)
+- [Data Replication](https://redis.com/blog/what-is-data-replication/)
+- [Data Redundancy](https://www.egnyte.com/guides/governance/data-redundancy)
+- [Database Sharding](https://www.mongodb.com/features/database-sharding-explained#)
+- [Fault Tolerance](https://www.cockroachlabs.com/blog/what-is-fault-tolerance/)
+- [Failover](https://avinetworks.com/glossary/failover/)
+- [Proxy Server](https://www.fortinet.com/resources/cyberglossary/proxy-server)
+- [Domain Name System (DNS)](https://www.cloudflare.com/learning/dns/what-is-dns/)
+- [Message Queues](https://medium.com/must-know-computer-science/system-design-message-queues-245612428a22)
+- [WebSockets](https://www.pubnub.com/guides/websockets/)
+- [Bloom Filters](https://www.enjoyalgorithms.com/blog/bloom-filter)
+- [Consensus Algorithms](https://medium.com/@sourabhatta1819/consensus-in-distributed-system-ac79f8ba2b8c)
+- [Gossip Protocol](http://highscalability.com/blog/2023/7/16/gossip-protocol-explained.html)
+- [Bloom Filters](https://www.enjoyalgorithms.com/blog/bloom-filter)
+- [API Gateway](https://www.nginx.com/learn/api-gateway/)
+- [Serverless Architecture](https://www.datadoghq.com/knowledge-center/serverless-architecture/)
+- [Service Discovery](https://www.nginx.com/blog/service-discovery-in-a-microservices-architecture/)
+- [Disaster Recovery](https://cloud.google.com/learn/what-is-disaster-recovery)
+- [Distributed Locking](https://martin.kleppmann.com/2016/02/08/how-to-do-distributed-locking.html)
+- [Distributed Tracing](https://www.dynatrace.com/news/blog/what-is-distributed-tracing/)
+- [Checksum](https://www.lifewire.com/what-does-checksum-mean-2625825)
+
+
+## System Design Interview Problems
+### Easy
+- [Design Leaderboard](https://systemdesign.one/leaderboard-system-design/)
+- [Design URL Shortener like TinyURL](https://www.youtube.com/watch?v=fMZMm_0ZhK4)
+- [Design Text Storage Service like Pastebin](https://www.youtube.com/watch?v=josjRSBqEBI)
+- [Design Content Delivery Network (CDN)](https://www.youtube.com/watch?v=8zX0rue2Hic)
+- [Design Parking Garage](https://www.youtube.com/watch?v=NtMvNh0WFVM)
+- [Design Vending Machine](https://www.youtube.com/watch?v=D0kDMUgo27c)
+- [Design Distributed Key-Value Store](https://www.youtube.com/watch?v=rnZmdmlR-2M)
+- [Design Distributed Cache](https://www.youtube.com/watch?v=iuqZvajTOyA)
+- [Design Distributed Job Scheduler](https://towardsdatascience.com/ace-the-system-design-interview-job-scheduling-system-b25693817950)
+- [Design Authentication System](https://www.youtube.com/watch?v=uj_4vxm9u90)
+- [Design Unified Payments Interface (UPI)](https://www.youtube.com/watch?v=QpLy0_c_RXk)
+### Medium
+- [Design Instagram](https://www.youtube.com/watch?v=VJpfO6KdyWE)
+- [Design Tinder](https://www.youtube.com/watch?v=tndzLznxq40)
+- [Design WhatsApp](https://www.youtube.com/watch?v=vvhC64hQZMk)
+- [Design Facebook](https://www.youtube.com/watch?v=9-hjBGxuiEs)
+- [Design Twitter](https://www.youtube.com/watch?v=wYk0xPP_P_8)
+- [Design Reddit](https://www.youtube.com/watch?v=KYExYE_9nIY)
+- [Design Netflix](https://www.youtube.com/watch?v=psQzyFfsUGU)
+- [Design Youtube](https://www.youtube.com/watch?v=jPKTo1iGQiE)
+- [Design Google Search](https://www.youtube.com/watch?v=CeGtqouT8eA)
+- [Design E-commerce Store like Amazon](https://www.youtube.com/watch?v=EpASu_1dUdE)
+- [Design Spotify](https://www.youtube.com/watch?v=_K-eupuDVEc)
+- [Design TikTok](https://www.youtube.com/watch?v=Z-0g_aJL5Fw)
+- [Design Shopify](https://www.youtube.com/watch?v=lEL4F_0J3l8)
+- [Design Airbnb](https://www.youtube.com/watch?v=YyOXt2MEkv4)
+- [Design Autocomplete for Search Engines](https://www.youtube.com/watch?v=us0qySiUsGU)
+- [Design Rate Limiter](https://www.youtube.com/watch?v=mhUQe4BKZXs)
+- [Design Distributed Message Queue like Kafka](https://www.youtube.com/watch?v=iJLL-KPqBpM)
+- [Design Flight Booking System](https://www.youtube.com/watch?v=qsGcfVGvFSs)
+- [Design Online Code Editor](https://www.youtube.com/watch?v=07jkn4jUtso)
+- [Design Stock Exchange System](https://www.youtube.com/watch?v=dUMWMZmMsVE)
+- [Design an Analytics Platform (Metrics & Logging)](https://www.youtube.com/watch?v=kIcq1_pBQSY)
+- [Design Notification Service](https://www.youtube.com/watch?v=CUwt9_l0DOg)
+- [Design Payment System](https://www.youtube.com/watch?v=olfaBgJrUBI)
+- [Design a Digital Wallet](https://www.youtube.com/watch?v=MCKdixWBnco)
+### Hard
+- [Design Slack](https://systemdesign.one/slack-architecture/)
+- [Design Live Comments](https://systemdesign.one/live-comment-system-design/)
+- [Design Distributed Counter](https://systemdesign.one/distributed-counter-system-design/)
+- [Design Location Based Service like Yelp](https://www.youtube.com/watch?v=M4lR_Va97cQ)
+- [Design Uber](https://www.youtube.com/watch?v=umWABit-wbk)
+- [Design Food Delivery App like Doordash](https://www.youtube.com/watch?v=iRhSAR3ldTw)
+- [Design Google Docs](https://www.youtube.com/watch?v=2auwirNBvGg)
+- [Design Google Maps](https://www.youtube.com/watch?v=jk3yvVfNvds)
+- [Design Zoom](https://www.youtube.com/watch?v=G32ThJakeHk)
+- [Design File Sharing System like Dropbox](https://www.youtube.com/watch?v=U0xTu6E2CT8)
+- [Design Ticket Booking System like BookMyShow](https://www.youtube.com/watch?v=lBAwJgoO3Ek)
+- [Design Distributed Web Crawler](https://www.youtube.com/watch?v=BKZxZwUgL3Y)
+- [Design Code Deployment System](https://www.youtube.com/watch?v=q0KGYwNbf-0)
+- [Design Distributed Cloud Storage like S3](https://www.youtube.com/watch?v=UmWtcgC96X8)
+- [Design Distributed Locking Service](https://www.youtube.com/watch?v=v7x75aN9liM)
+
+## Must-Read Engineering Articles
+- [How Discord stores trillions of messages](https://discord.com/blog/how-discord-stores-trillions-of-messages)
+- [Building In-Video Search](https://netflixtechblog.com/building-in-video-search-936766f0017c)
+- [How Canva scaled Media uploads from Zero to 50 Million per Day](https://www.canva.dev/blog/engineering/from-zero-to-50-million-uploads-per-day-scaling-media-at-canva/)
+- [How Airbnb avoids double payments in a Distributed Payments System](https://medium.com/airbnb-engineering/avoiding-double-payments-in-a-distributed-payments-system-2981f6b070bb)
+- [Stripe’s payments APIs - The first 10 years](https://stripe.com/blog/payment-api-design)
+- [Real time messaging at Slack](https://slack.engineering/real-time-messaging/)
+
+## Books
+- [Designing Data-Intensive Applications](https://www.amazon.com/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/B08VL1BLHB/)
+- [System Design Interview – An insider's guide](https://www.amazon.com/System-Design-Interview-insiders-Second/dp/B08CMF2CQF/)
+
+## YouTube Channels
+- [Tech Dummies Narendra L](https://www.youtube.com/@TechDummiesNarendraL)
+- [Gaurav Sen](https://www.youtube.com/@gkcs)
+- [codeKarle](https://www.youtube.com/@codeKarle)
+- [ByteByteGo](https://www.youtube.com/@ByteByteGo)
+- [System Design Interview](https://www.youtube.com/@SystemDesignInterview)
+- [Success in Tech](https://www.youtube.com/@SuccessinTech/videos)
